@@ -1,6 +1,6 @@
 # Melanoma Detection using Convolutional Neural Network
 
-This repository contains the implementation of a Convolutional Neural Network (CNN) for the diagnosis of Melanoma Cancer. The model leverages the ResNet-18 architecture with ImageNet weights for initialization. This model weights are fine-tuned on the cancer dataset achieving an accuracy of over 83%.
+This repository contains the implementation of a Convolutional Neural Network (CNN) for the diagnosis of Melanoma Cancer. The model leverages the ResNet-18 architecture with ImageNet weights for initialization. This model weights are fine-tuned on the cancer dataset achieving an accuracy of over 88%.
 
 ### Model Architecture
 
@@ -16,4 +16,4 @@ The dataset used for this project consists of dermatoscopic images with labels i
 
 ## Results
 
-The model achieved an accuracy of over 83% on the test set, demonstrating its effectiveness in classifying dermatoscopic images for melanoma presence.
+The model achieved an accuracy of over 88% on the test set, demonstrating its effectiveness in classifying dermatoscopic images for melanoma presence.
